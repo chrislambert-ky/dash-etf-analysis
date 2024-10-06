@@ -1,0 +1,12 @@
+dash # Core Dash package for building web apps
+dash-bootstrap-components # Bootstrap components for styling Dash apps
+dash-table # Dash DataTable for displaying tabular data
+pandas # Data manipulation and analysis
+plotly # Plotly for interactive visualizations
+yfinance # Yahoo Finance API for downloading stock data
+scikit-learn # Machine learning models (Linear Regression)
+prophet # Time series forecasting with Prophet
+numpy # Numerical operations used in analysis
+
+#note to self: to ensure that I'm using the latest version of each library, use the following:
+#pip install --upgrade -r requirements.txt
