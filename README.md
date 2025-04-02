@@ -1,5 +1,5 @@
 # dash-etf-analysis
-### Using various AI models, I've developed a small dashboard that demonstrates a buy-on-dip investment strategy as well as provides short term and long term forecasting using different models.  I've used this project to learn more about developing a python based webpage using Dash and Plotly in addition to using machine learning models from Prophet and scikit-learn.
+Using various ML models, I've developed a small dashboard that demonstrates a buy-on-dip investment strategy as well as provides short term and long term forecasting using different models.  I've used this project to learn more about developing a python based webpage using Dash and Plotly in addition to using machine learning models from Prophet and scikit-learn.
 
 ### I am using the following libraries:
 ```
