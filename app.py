@@ -92,4 +92,4 @@ def update_table_on_zoom(relayoutData, figure, pathname):
     return filtered_purchased.to_dict('records')
 
 if __name__ == "__main__":
-    app.run_server(debug=True)
+    app.run(debug=True)
